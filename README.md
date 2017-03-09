@@ -1,6 +1,4 @@
 # oracle-project
-CMPUT 291 Database Assignment 1 
-
 CMPUT 291 MINI PROJECT 1 DESIGN DOCUMENT
 
 
